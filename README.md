@@ -1,5 +1,5 @@
 # Store1RestorationUtility
-A backup/restoration application designed to keep track of files and restore a previous image of a shared network drive
+A backup/restoration application designed to keep track of files and restore a previous image of a shared network drive. Developed and maintained by Michael Pierre.
 
 ![Store1Preview](https://i.imgur.com/JwTop7i.jpg)
 
